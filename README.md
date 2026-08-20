@@ -26,9 +26,13 @@ I build production-ready web applications and enjoy turning ideas into real prod
 | [Task Management App](https://github.com/sainesh25/TaskManagementApp) | Add, complete, and delete tasks — React + Tailwind |
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sainesh25&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=sainesh25&theme=nightowl&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sainesh25&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=sainesh25&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" alt="Sainesh's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sainesh25&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sainesh25&theme=nightowl&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
